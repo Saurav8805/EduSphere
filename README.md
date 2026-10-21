@@ -186,19 +186,21 @@ Application Visualization:
 
 ### 📱 EduSphere App Screenshots
 
-### EduSphere Platform Gallery
+### 📱 EduSphere App Screenshots
 
-| Admin Dashboard | Create Course Modal | Broadcast Notification |
-| :---: | :---: | :---: |
-| <img src="images/image_x2cOMg.png" width="250"> | <img src="images/image_9x2G_A.png" width="250"> | <img src="images/image_N5oE7n.png" width="250"> |
+<img src="images/image_x2cOMg.png" width="32%" /> <img src="images/image_9x2G_A.png" width="32%" /> <img src="images/image_N5oE7n.png" width="32%" />
 
-| Courses Management | Student Homepage | Course Search / Explore |
-| :---: | :---: | :---: |
-| <img src="images/image_kUdvTv.png" width="250"> | <img src="images/image_SCiGOc.png" width="250"> | <img src="images/image_txbsTO.png" width="250"> |
+<br/><br/>
 
-| Course Details | Video Player | Enrolled Courses |
-| :---: | :---: | :---: |
-| <img src="images/image_j6Ryd0.png" width="250"> | <img src="images/image_LzTVr8.png" width="250"> | <img src="images/image_hA6WQa.png" width="250"> |
+<img src="images/image_kUdvTv.png" width="32%" /> <img src="images/image_SCiGOc.png" width="32%" /> <img src="images/image_txbsTO.png" width="32%" />
+
+<br/><br/>
+
+<img src="images/image_j6Ryd0.png" width="32%" /> <img src="images/image_LzTVr8.png" width="32%" /> <img src="images/image_hA6WQa.png" width="32%" />
+
+<br/><br/>
+
+<img src="images/image_tG8DD3.png" width="32%" />
 
 
 
