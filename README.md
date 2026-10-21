@@ -186,33 +186,19 @@ Application Visualization:
 
 ### 📱 EduSphere App Screenshots
 
-<p align="center">
-  <img src="images/image_x2cOMg.png" width="30%" alt="Admin Dashboard Overview" />
-  <img src="images/image_9x2G_A.png" width="30%" alt="Create New Technical Course" />
-  <img src="images/image_N5oE7n.png" width="30%" alt="Broadcast Announcement Modal" />
-</p>
+### EduSphere Platform Gallery
 
-<br />
+| Admin Dashboard | Create Course Modal | Broadcast Notification |
+| :---: | :---: | :---: |
+| <img src="images/image_x2cOMg.png" width="250"> | <img src="images/image_9x2G_A.png" width="250"> | <img src="images/image_N5oE7n.png" width="250"> |
 
-<p align="center">
-  <img src="images/image_kUdvTv.png" width="30%" alt="Manage Published & Draft Courses" />
-  <img src="images/image_SCiGOc.png" width="30%" alt="Student Homepage Feed" />
-  <img src="images/image_txbsTO.png" width="30%" alt="Explore Courses Directory" />
-</p>
+| Courses Management | Student Homepage | Course Search / Explore |
+| :---: | :---: | :---: |
+| <img src="images/image_kUdvTv.png" width="250"> | <img src="images/image_SCiGOc.png" width="250"> | <img src="images/image_txbsTO.png" width="250"> |
 
-<br />
-
-<p align="center">
-  <img src="images/image_j6Ryd0.png" width="30%" alt="MERN Stack Course Detail Page" />
-  <img src="images/image_LzTVr8.png" width="30%" alt="Lesson Video Player View" />
-  <img src="images/image_hA6WQa.png" width="30%" alt="My Learning Dashboard" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="images/image_tG8DD3.png" width="30%" alt="Student Profile Page" />
-</p>
+| Course Details | Video Player | Enrolled Courses |
+| :---: | :---: | :---: |
+| <img src="images/image_j6Ryd0.png" width="250"> | <img src="images/image_LzTVr8.png" width="250"> | <img src="images/image_hA6WQa.png" width="250"> |
 
 
 
