@@ -184,23 +184,21 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 Application Visualization:
 
 
-### 📱 EduSphere App Screenshots
+### Admin Panel Screenshots
 
-### 📱 EduSphere App Screenshots
+![Create New Technical Course](images/image_9x2G_A.png)
+![Admin Dashboard Overview](images/image_x2cOMg.png)
+![Manage Published & Draft Courses](images/image_kUdvTv.png)
+![Broadcast Announcement Modal](images/image_N5oE7n.png)
 
-<img src="images/image_x2cOMg.png" width="32%" /> <img src="images/image_9x2G_A.png" width="32%" /> <img src="images/image_N5oE7n.png" width="32%" />
+### Student Portal Screenshots
 
-<br/><br/>
-
-<img src="images/image_kUdvTv.png" width="32%" /> <img src="images/image_SCiGOc.png" width="32%" /> <img src="images/image_txbsTO.png" width="32%" />
-
-<br/><br/>
-
-<img src="images/image_j6Ryd0.png" width="32%" /> <img src="images/image_LzTVr8.png" width="32%" /> <img src="images/image_hA6WQa.png" width="32%" />
-
-<br/><br/>
-
-<img src="images/image_tG8DD3.png" width="32%" />
+![My Learning Dashboard](images/images_hA6WQa.png)
+![Lesson Video Player View](images/image_LzTVr8.png)
+![Student Profile Page](images/image_tG8DD3.png)
+![MERN Stack Course Detail Page](images/image_j6Ryd0.png)
+![Explore Courses Directory](images/image_txbsTO.png)
+![Student Homepage Feed](images/image_SCiGOc.png)
 
 
 
