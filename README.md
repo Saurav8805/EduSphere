@@ -176,7 +176,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-<p align="center">Made with ❤️ using Java & Supabase</p>
+
 
 
 
@@ -184,14 +184,38 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 Application Visualization:
 
 
+### 📱 EduSphere App Screenshots
 
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-21 at 5 12 12 PM" src="https://github.com/user-attachments/assets/215d5ef5-03a4-42c4-b63a-e5f72da3a35d" />
+<p align="center">
+  <img src="images/image_x2cOMg.png" width="30%" alt="Admin Dashboard Overview" />
+  <img src="images/image_9x2G_A.png" width="30%" alt="Create New Technical Course" />
+  <img src="images/image_N5oE7n.png" width="30%" alt="Broadcast Announcement Modal" />
+</p>
 
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-21 at 5 12 13 PM (1)" src="https://github.com/user-attachments/assets/7feb5e12-1c87-401e-9521-ec9c08c49b98" />
+<br />
 
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-21 at 5 12 13 PM" src="https://github.com/user-attachments/assets/5d6320d1-cba0-44e0-8eea-7106917f62ad" />
+<p align="center">
+  <img src="images/image_kUdvTv.png" width="30%" alt="Manage Published & Draft Courses" />
+  <img src="images/image_SCiGOc.png" width="30%" alt="Student Homepage Feed" />
+  <img src="images/image_txbsTO.png" width="30%" alt="Explore Courses Directory" />
+</p>
 
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-21 at 5 12 14 PM (1)" src="https://github.com/user-attachments/assets/591bcfe4-563d-44af-8aa0-7313ddc48b8b" />
+<br />
 
-<img width="575" height="1280" alt="WhatsApp Image 2026-10-21 at 5 12 14 PM (2)" src="https://github.com/user-attachments/assets/105ac94e-9e72-452f-8dc4-d066d1f7f516" />
+<p align="center">
+  <img src="images/image_j6Ryd0.png" width="30%" alt="MERN Stack Course Detail Page" />
+  <img src="images/image_LzTVr8.png" width="30%" alt="Lesson Video Player View" />
+  <img src="images/image_hA6WQa.png" width="30%" alt="My Learning Dashboard" />
+</p>
 
+<br />
+
+<p align="center">
+  <img src="images/image_tG8DD3.png" width="30%" alt="Student Profile Page" />
+</p>
+
+
+
+
+
+<p align="center">Made with ❤️ using Java & Supabase</p>
